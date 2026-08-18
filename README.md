@@ -86,4 +86,4 @@ Both are computed on the reward log with propensity clipping. Only policies that
 
 ## About
 
-I'm Arnav Sawhney, founder and sole engineer. B.Tech Biosystems Engineering + AI minor at Plaksha University, graduating 2027. Reach me at sawhneyarnav87@gmail.com or on [LinkedIn](https://www.linkedin.com/in/arnav-sawhney-2bb391253/).
+I'm Arnav Sawhney, founder and sole engineer. B.Tech Biosystems Engineering + AI minor at Plaksha University, graduating 2027. Reach me at arnavsawhney@clinicpylot.xyz or on [LinkedIn](https://www.linkedin.com/in/arnav-sawhney-2bb391253/).
